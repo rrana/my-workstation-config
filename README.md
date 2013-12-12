@@ -1,8 +1,8 @@
-# This is my personal workstation (Desktop/Laptop) configuration management project using [ansible] (http://www.ansibleworks.com/why-ansible/)
+This is my personal workstation (Desktop/Laptop) configuration management project using [ansible] (http://www.ansibleworks.com/why-ansible/)
 
 # Ansible installation
 
-You can follow ansible [official installation instructions] (http://www.ansibleworks.com/docs/intro_installation.html)
+You can follow ansible [official installation instructions] (http://www.ansibleworks.com/docs/intro_installation.html).
 
 These are the steps I follow to install ansible on my ubuntu workstation:
 
