@@ -8,12 +8,12 @@ These are the steps I follow to install ansible on my ubuntu workstation:
 
 (for ubuntu)
 
-1. I want to install ansible with python pip and keep it in it's own virtualenv. So install virtualenv if you don't have it.
+1. I want to install ansible with python pip and keep it in it's own virtualenv. So install virtualenv if you don't have it:
 	sudo easy_install pip
 
-2. Create virtualenv.
+2. Create virtualenv:
 	cd ~/python-env && virtualenv my-workstation-config
 
-3. Activate project's virtualenv and install packages from requirements.txt
+3. Activate project's virtualenv and install packages from requirements.txt:
 	source ~/python-env/my-workstation-config/bin/activate && pip install -r requirements.txt
 
